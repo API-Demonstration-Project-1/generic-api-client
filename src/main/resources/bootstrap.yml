@@ -1,9 +1,3 @@
 spring:
   application:
     name: generic-api-client
-  profiles:
-    active:
-      default
-  cloud:
-    config:
-      enabled: true
